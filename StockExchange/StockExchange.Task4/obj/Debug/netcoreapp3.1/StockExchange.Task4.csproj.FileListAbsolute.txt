@@ -1,0 +1,12 @@
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Patterns\StockExchange\StockExchange.Task4\bin\Debug\netcoreapp3.1\StockExchange.Task4.exe
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Patterns\StockExchange\StockExchange.Task4\bin\Debug\netcoreapp3.1\StockExchange.Task4.deps.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Patterns\StockExchange\StockExchange.Task4\bin\Debug\netcoreapp3.1\StockExchange.Task4.runtimeconfig.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Patterns\StockExchange\StockExchange.Task4\bin\Debug\netcoreapp3.1\StockExchange.Task4.runtimeconfig.dev.json
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Patterns\StockExchange\StockExchange.Task4\bin\Debug\netcoreapp3.1\StockExchange.Task4.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Patterns\StockExchange\StockExchange.Task4\bin\Debug\netcoreapp3.1\StockExchange.Task4.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Patterns\StockExchange\StockExchange.Task4\obj\Debug\netcoreapp3.1\StockExchange.Task4.AssemblyInfoInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Patterns\StockExchange\StockExchange.Task4\obj\Debug\netcoreapp3.1\StockExchange.Task4.AssemblyInfo.cs
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Patterns\StockExchange\StockExchange.Task4\obj\Debug\netcoreapp3.1\StockExchange.Task4.csproj.CoreCompileInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Patterns\StockExchange\StockExchange.Task4\obj\Debug\netcoreapp3.1\StockExchange.Task4.dll
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Patterns\StockExchange\StockExchange.Task4\obj\Debug\netcoreapp3.1\StockExchange.Task4.pdb
+C:\Users\Dzmitriy_Kakhanouski\Desktop\Patterns\StockExchange\StockExchange.Task4\obj\Debug\netcoreapp3.1\StockExchange.Task4.genruntimeconfig.cache
